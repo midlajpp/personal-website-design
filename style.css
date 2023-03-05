@@ -1,0 +1,724 @@
+.sect-1{
+    width: 50%;
+    height: 80px;
+    background-color: black;
+    float: left;
+}
+body{
+    margin: 0;
+    
+}
+.head-box{
+    width: 100%;
+    height: 40px;
+    position: absolute;
+}
+.sect-2{
+    float: left;
+    width: 50%;
+    height: 80px;
+    background-color: black;
+}
+.u{
+    color: #fff;
+    font-family: sans-serif;
+    text-decoration: none;
+    float: left;
+    font-size: 26px;
+    margin-top: 25px;
+    margin-left: 25%;
+}
+#menu-btn{
+    float: left;
+    align-items: center;
+    background-color: black;
+    color: #fff;
+    border-radius: 25px;
+    border-color: black;
+    margin-top: 35px;
+    margin-left: 10px;
+}
+#saf-btn{
+    float: left;
+    margin-top: 35px;
+    background-color: black;
+    
+}
+.saf{
+    color: #fff;
+    text-decoration: none;
+}
+
+.help-btn{
+    float: left;
+    margin-top: 35px;
+    background-color: black;
+}
+.hel{
+    color: #fff;
+    text-decoration: none;
+    background-color: black;
+}
+
+
+
+
+
+
+
+.glo-btn{
+    background-color: black;
+    float: left;
+    margin-left: 25%;
+}
+.en{
+    color: #fff;
+}
+.global-img{
+    width: 16px;
+    height: 16px;
+    margin-top: 36px;
+}
+.menu-btn{
+    float: left;
+    margin-top: 35px;
+    height: 25px;
+    background-color: black;
+}
+.menu-img{
+    width: 16px;
+    height: 16px;
+    float: left;
+    margin-top: 2px;
+}
+.pr{
+    color: #fff;
+    float: left;
+    margin-top: 5px;
+    margin-left: 7px;
+}
+.lg{
+    float: left;
+    margin-left: 14px;
+    margin-top: 4px;
+}
+.person-btn{
+    float: left;
+    width: 125px;
+    color: #fff;
+    background-color: black;
+    margin-top: 35px;
+}
+.person-img{
+    width: 16px;
+    height: 16px;
+    float: left;
+}
+.sign-btn{
+    border-radius: 25px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    margin-top: 35px;
+    margin-left: -38px;
+}
+
+
+
+
+
+
+
+
+
+.sec-1{
+    width: 100%;
+    height: 630px;
+    background-image: url(image\ file/background-main.webp);
+    background-size: cover;
+    margin-top: 62px;
+    
+}
+.sec-inner-div{
+    width: 100%;
+    height: 630px;
+    margin-top: 22px;   
+}
+.box{
+    width: 100%;
+    height: 630px;
+}
+.box-form{
+    width: 500px;
+    height: 420px;
+    background-color: #fff;
+    margin-top: 0px;
+    margin-left: 10%;
+    font-family: sans-serif;
+
+}
+.ride-drive{
+    width: 100%;
+    height: 130px;
+}
+.ride{
+    width: 50%;
+    height: 130px;
+    float: left;
+}
+.drive{
+    width: 50%;
+    height: 130px;
+    float: left;
+}
+.car-img{
+    width: 20px;
+    height: 20px;
+    margin-left: 65px;
+    margin-top: 30px;
+}
+.signal-img{
+    width: 20px;
+    height: 20px;
+    margin-top: 30px;
+    margin-left: 55px;
+}
+.line{
+    width: 70px;
+    height: 3px;
+    background-color: black;
+    margin-left: 65px;
+    margin-top: 0px;
+}
+.ri{
+    margin-left: 65px;
+    margin-top: 3px;
+}
+.dri{
+    margin-top: 3px;
+    margin-left: 55px;
+}
+.request{
+    margin-left: 65px;
+    font-size: 35px;
+}
+.pickup{
+    width: 360px;
+    height: 30px;
+    margin-left: 65px;
+    background-color: rgb(232, 235, 238);
+    border: rgb(232, 235, 238);
+}
+.destination{
+    width: 360px;
+    height: 30px;
+    margin-left: 65px;
+    margin-top: 10px;
+    background-color: rgb(232, 235, 238);
+    border: rgb(232, 235, 238);
+}
+.requ-btn{
+    width: 150px;
+    height: 38px;
+    background-color: black;
+    color: #fff;
+    margin-left: 65px;
+    margin-top: 30px;
+}
+.shedu-btn{
+    width: 150px;
+    height: 38px;
+    background-color: rgb(232, 235, 238);
+    border: rgb(232, 235, 238);
+    margin-left: 20px;
+    margin-top: 30px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.txt-ubr{
+    font-family: sans-serif;
+    margin-left: 10%;
+    margin-top: 50px;
+}
+.txt-pera{
+    font-family: sans-serif;
+    margin-left: 10%;
+}
+.btn-see{
+    margin-left: 10%;
+    background-color: black;
+    color: #fff;
+}
+.img-auto{
+    width: 90px;
+    height: 90px;
+    margin-left: 10%;
+    float: left;
+}
+.auto{
+    font-family: sans-serif;
+    margin-left: 20%;
+}
+.p-tag{
+    font-family: sans-serif;
+    font-size: small;
+    margin-top: -19px;
+    margin-left: 3%;
+    float: left;
+}
+.arrow1{
+    width:30px;
+    height: 30px;
+    float: left;
+    margin-left: 72px;
+    margin-top: -15px;
+}
+.img-bike{
+    width: 90px;
+    height: 90px;
+    margin-left: 10%;
+    float: left;
+    margin-top: -50px;
+}
+.moto{
+    font-family: sans-serif;
+    margin-left: 841px;
+    margin-top: -37px
+}
+.p-tag{
+    font-family: sans-serif;
+    font-size: small;
+    margin-top: -19px;
+    margin-left: 3%;
+}
+.arrow2{
+    width:30px;
+    height: 30px;
+    float: left;
+    margin-left: 55px;
+    margin-top: -15px;
+}
+.img-key{
+    width: 90px;
+    height: 90px;
+    margin-left: -79%;
+    margin-top: 64px;
+}
+.rentals{
+    font-family: sans-serif;
+    margin-left: 20%;
+    margin-top: -73px
+}
+.p-tag1{
+    font-family: sans-serif;
+    font-size: small;
+    margin-top: -19px;
+    margin-left: 20%;
+}
+.arrow3{
+    width:30px;
+    height: 30px;
+    float: left;
+    margin-left: 550px;
+    margin-top: -50px;
+}
+.img-car{
+    width: 90px;
+    height: 90px;
+    margin-left: 714px;
+    float: left;
+    margin-top: -93px;
+}
+.intarcity{
+    font-family: sans-serif;
+    margin-left: 65%;
+    margin-top: -73px
+}
+.p-tag2{
+    font-family: sans-serif;
+    font-size: small;
+    margin-top: -18px;
+    margin-left: 65%;
+}
+.arrow4{
+    width:30px;
+    height: 30px;
+    float: left;
+    margin-left: 1136px;
+    margin-top: -50px;
+}
+
+
+
+
+.h1-focuse{
+    font-family: sans-serif;
+    margin-left: 10%;
+}
+.img-drive{
+    width: 397px;
+    height: 243px;
+    margin-left: 10%;
+    float: left;
+}
+.img-trafic{
+    width: 397px;
+    height: 243px;
+    margin-left: .5%;
+}
+
+.txt-pera2{
+    font-family: sans-serif;
+    margin-left: 10%;
+}
+.pera1{
+    font-family: sans-serif;
+    margin-left: 10% ;
+    font-size: 11px;
+}
+.pera2{
+    font-family: sans-serif;
+    margin-left: 10%;
+    font-size: 11px;
+    float: left;
+}
+.pera3{
+    font-family: sans-serif;
+    margin-left: 3%;
+    font-size: 11px;
+    float: left;
+}
+
+.txt-pera3{
+    font-family: sans-serif;
+    margin-left: 10%;
+}
+.pera4{
+    font-family: sans-serif;
+    margin-left: 10% ;
+    font-size: 11px;
+}
+.pera5{
+    font-family: sans-serif;
+    margin-left: 10%;
+    font-size: 11px;
+    float: left;
+    margin-top: 6px;
+}
+.div{
+    float: left;
+    margin-top: -121px;
+    margin-left: 10px;
+}
+
+.person1{
+    margin-left: -250%;
+    margin-top: 30px;
+    width: 20px;
+    height: 20px;
+}
+.about{
+    font-family: sans-serif;
+    margin-left: -250%;
+    margin-top: 5px;
+}
+.find-pera{
+    font-family: sans-serif;
+    margin-left: -250%;
+    
+}
+.learn-pera{
+    font-family: sans-serif;
+    margin-left: -250%;
+    margin-top: -10px;
+}
+
+
+
+.container2{
+    width: 100%;
+    height: 170px;
+    margin-top: 145px;
+}
+
+
+#img-1{
+    float: left;
+    margin-left: 10%;
+    margin-top: 10px;
+    width: 350px;
+    height: 150px;
+    
+}
+.img-1{
+    width: 20px;
+    height: 20px;
+}
+.about{
+    margin-left: 0%;
+    font-family: sans-serif;
+}
+.find1{
+    font-family: sans-serif;
+}
+.learn1{
+    font-family: sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+#img-2{
+    float: left;
+    margin-left: 1%;
+    margin-top: 10px;
+    width: 350px;
+    height: 150px;
+    
+}
+.img-2{
+    width: 20px;
+    height: 20px;
+}
+.see2{
+    font-family: sans-serif;
+}
+.go2{
+    font-family: sans-serif;
+}
+
+
+
+
+
+
+
+
+#img-3{
+    float: left;
+    margin-left: 1%;
+    margin-top: 10px;
+    width: 350px;
+    height: 150px;
+    
+}
+.img-3{
+    width: 20px;
+    height: 20px;
+}
+.read3{
+    font-family: sans-serif;
+}
+.see3{
+    font-family: sans-serif;
+}
+
+
+.container-1{
+    width: 100%;
+    height: 300px;
+    background-color: rgb(243, 241, 235);
+    position: absolute;
+}
+.text-pera{
+    font-family: sans-serif;
+    margin-left: 10%;
+    margin-top: 60px;
+}
+.box1{
+    width: 370px;
+    height: 140px;
+    background-color: #fff;
+    margin-left: 10%;
+    float: left;
+}
+.logo{
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+    margin-left: 20px;
+    float: left;
+}
+.logo-text{
+    float: left;
+    font-family: sans-serif;
+    margin-top: 67px;
+    margin-left: 10px;
+}
+.icon-arrow2{
+    width: 30px;
+    height: 30px;
+    margin-top: 62px;
+    margin-left: 10px;
+}
+.box2{
+    float: left;
+    width: 370px;
+    height: 140px;
+    background-color: #fff;
+    margin-left: 30px;
+}
+
+
+
+.p-4{
+    width: 100%;
+    height: 250px;
+    background-color: #fff;
+}
+.container-next{
+    width: 100%;
+    height: 250px;
+    position: absolute;
+    padding-top: 90px;
+    float: left;
+}
+.box3{
+    float: left;
+    width: 370px;
+    height: 140px;
+    margin-left: 350px;
+}
+.icon-arrow3{
+    width: 30px;
+    height: 30px;
+    margin-top: 90px;
+    margin-left: 148px;
+}
+.line-box{
+    width: 370px;
+    height: 3px;
+    background-color: #292828;
+    margin-top: 40px;
+}
+.logo-text1{
+    float: left;
+    font-family: sans-serif;
+    margin-top: 90px;
+    margin-left: 10px;
+}
+.box4{
+    float: left;
+    width: 370px;
+    height: 140px;
+    margin-left: 30px;
+}
+
+
+
+
+.footer{
+    width: 100%;
+    height: 800px;
+    background-color: black;
+    margin-top: 89px;
+}
+.container-foot{
+    width: 100%;
+    height: 600px;
+}
+.inner-foot{
+    color: #fff;
+    margin-left: 10%;
+    margin-top: 15px;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+.lg-mar{
+    margin-left: -1%;
+}
+.foot-txt{
+    font-size: 12px;
+}
+.com-chart1{
+    float: left;
+}
+.com-chart2{
+    float: left;
+    margin-left: 150px;
+}
+.com-chart3{
+    float: left;
+    margin-left: 150px;
+}
+.com-chart4{
+    float: left;
+    margin-left: 150px;
+}
+.social-media{
+    margin-top: 370px;
+}
+#icons{
+    margin-left: 15px;
+    float: left;
+}
+.icons{
+    float: left;
+    margin-left: 60px;
+}
+#frt-icon{
+    float: left;
+}
+.icons1{
+    float: left;
+    margin-left: 60px;
+}
+.eng{
+    float: left;
+    margin-top: 2px;
+    font-size: 12px;
+}
+.san{
+    font-size: 12px;
+    margin-top: 2px;
+    float: left;
+}
+.app-logo1{
+    float: left;
+    margin-left: 25%;
+    width: 100px;
+    margin-top: -20px;
+}
+.app-logo2{
+    float: left;
+    margin-left: 10px;
+    width: 110px;
+    margin-top: -20px;
+}
+
+
+.copy-txt{
+    font-size: 9px;
+}
+.copy1{
+    float: left;
+}
+.copy2{
+    float: left;
+    margin-left: 724px;
+}
+.copy3{
+    float: left;
+    margin-left: 10px;
+}
+.copy4{
+    float: left;
+    margin-left: 10px;
+}
